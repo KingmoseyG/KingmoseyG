@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingmoseyG
-- 👀 I’m interested in becoming a web developer
+- 👀 I’m interested in becoming a Web Developer
 - 🌱 I’m currently learning HTML, CSS and Javascript
 
 <!---
